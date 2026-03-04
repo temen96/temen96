@@ -1,7 +1,7 @@
 
 👋 BONJOUR, J'AI SUIS TEMEN!
 🚀 Digital Artisan | Code Weaver | Problem Solver
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Security+Researcher;Ethical+Hacker+in+Training;Bug+Bounty+Hunter;Digital+Forensics+Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80F7&width=435&lines=Computer+Science+Student;Code+Explorer;Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG" />
 🎯 About Me
  class WhoAmI:
     def __init__(self):
