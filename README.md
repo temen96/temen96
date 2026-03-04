@@ -1,7 +1,7 @@
 
 👋 BONJOUR, J'AI SUIS TEMEN!
 🚀 Digital Artisan | Code Weaver | Problem Solver
-                         <img src="https://readme-typing-svg.herokuapp.com?                      font=Fira+Code&pause=1000&color=2F80F7&width=435&lines=Computer+Science+Student;Code+Explorer;Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?                      font=Fira+Code&pause=1000&color=2F80F7&width=435&lines=Computer+Science+Student;Code+Explorer;Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG" />
 🎯 About Me
  class WhoAmI:
     def __init__(self):
@@ -64,6 +64,6 @@ Other        25 mins         ▒░░░░░░░░░░░░░░░░
 ⚡ Fun Fact
 My first line of code was "Hello World" in BASIC, and I've been debugging ever since!
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p><p align="center"> <i>⭐️ From [yourusername]</i> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p><p align="center"> <i>⭐️ From [TEMEN]</i> </p>
 
 
