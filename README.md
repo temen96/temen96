@@ -1,5 +1,5 @@
-creative
-👋 Hello, I'm TEMEN!
+
+👋 BONJOUR, J'AI SUIS TEMEN!
 🚀 Digital Artisan | Code Weaver | Problem Solver
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner;Tech+Explorer" alt="Typing SVG" />
 🎯 About Me
@@ -25,7 +25,6 @@ creative
 };
 📊 GitHub Analytics
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/> </p>
-🎨 Current Creative Endeavors
 🏆 Achievement Unlocked
 📱 Built and deployed 15+ web applications
 
@@ -50,8 +49,6 @@ creative
 
 📫 Let's Connect & Collaborate
 <p align="left"> <a href="https://linkedin.com/in/temen alemayehu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </a> <a href="https://dev.to/yourprofile"><img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a> <a href="temenalemayehu46@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a> </p>
-🐍 Watch My Contribution Graph Get Eaten
-https://github.com/temen96/temen96/blob/output/github-contribution-grid-snake.svg
 
 💡 Quote That Inspires Me
 "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
