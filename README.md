@@ -1,7 +1,7 @@
 
 👋 BONJOUR, J'AI SUIS TEMEN!
 🚀 Digital Artisan | Code Weaver | Problem Solver
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80F7&width=435&lines=Computer+Science+Student;Code+Explorer;Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG" />
+                         <img src="https://readme-typing-svg.herokuapp.com?                      font=Fira+Code&pause=1000&color=2F80F7&width=435&lines=Computer+Science+Student;Code+Explorer;Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG" />
 🎯 About Me
  class WhoAmI:
     def __init__(self):
@@ -23,8 +23,7 @@
     learning: ['GraphQL', 'Kubernetes', 'Go'],
     architecture: ['Microservices', 'REST APIs', 'Serverless']
 };
-📊 GitHub Analytics
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/> </p>
+
 🏆 Achievement Unlocked
 📱 Built and deployed 15+ web applications
 
